@@ -1,0 +1,5 @@
+caffe/*
+mongo-c-driver-1.13.0/*
+mongo-cxx-driver/*
+suites/*
+.idea/*
